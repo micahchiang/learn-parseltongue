@@ -1,1 +1,1 @@
-# Automate the Boring Stuff end of chapter projects
+# Automate the Boring Stuff chapter projects
