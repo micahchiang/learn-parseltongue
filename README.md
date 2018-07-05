@@ -1,1 +1,1 @@
-# Central Repo for learninga about python.
+# Central Repo for learning about python.
