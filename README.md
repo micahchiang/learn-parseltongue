@@ -1,1 +1,1 @@
-# Automate the Boring Stuff chapter projects
+# Central Repo for learninga about python.
